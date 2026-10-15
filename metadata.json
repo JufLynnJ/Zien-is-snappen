@@ -1,0 +1,6 @@
+{
+  "name": "Zien is Snappen - Zinsontleding",
+  "description": "Interactieve zinsontleding oefenen volgens de methode Zien is snappen met kleurencodes, voorleesfunctie, slepen en adaptieve niveaus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
